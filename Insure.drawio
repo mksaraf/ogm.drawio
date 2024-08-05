@@ -1,0 +1,69 @@
+<mxfile host="Electron" modified="2023-10-09T16:55:56.450Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.0 Chrome/114.0.5735.289 Electron/25.8.3 Safari/537.36" etag="CcqnZKPNPuyNgJd4hIvg" version="22.0.0" type="device">
+  <diagram name="Page-1" id="v9hgoGjNoqC3Z9nIv8fU">
+    <mxGraphModel dx="2074" dy="1267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wcgZUPxSyEPz92GEohTO-1" value="Business" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wcgZUPxSyEPz92GEohTO-2" value="Enough Money" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wcgZUPxSyEPz92GEohTO-3" value="Business Knowledge" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wcgZUPxSyEPz92GEohTO-4" value="Resource" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wcgZUPxSyEPz92GEohTO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wcgZUPxSyEPz92GEohTO-5" target="wcgZUPxSyEPz92GEohTO-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wcgZUPxSyEPz92GEohTO-5" value="Product&lt;br&gt;Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wcgZUPxSyEPz92GEohTO-6" value="Place&lt;br&gt;&amp;nbsp;- Office&lt;br&gt;- Shop&lt;br&gt;- Manufacture&lt;br&gt;- Online&lt;br&gt;- Onsight" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="120" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wcgZUPxSyEPz92GEohTO-7" value="Back up of Legal Issue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wcgZUPxSyEPz92GEohTO-8" value="Lot of Time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wcgZUPxSyEPz92GEohTO-9" value="50000" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wcgZUPxSyEPz92GEohTO-10" value="Remote" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wcgZUPxSyEPz92GEohTO-11" value="Tech Support&lt;br&gt;- Website&lt;br&gt;- Email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wcgZUPxSyEPz92GEohTO-12" value="Life Insurance : 12&lt;br&gt;Health Ins: 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="280" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wcgZUPxSyEPz92GEohTO-13" value="Making" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="180" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wcgZUPxSyEPz92GEohTO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wcgZUPxSyEPz92GEohTO-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wcgZUPxSyEPz92GEohTO-14" value="Distributing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="180" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wcgZUPxSyEPz92GEohTO-17" value="HGI Expert&lt;br&gt;Training" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="280" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wcgZUPxSyEPz92GEohTO-20" value="1 hr / day" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="280" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wcgZUPxSyEPz92GEohTO-21" value="We Have it" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="280" width="60" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
